@@ -1,2 +1,2 @@
 # TinyWarehouse
-A simple warehouse and order management system. Build with flask.
+A simple warehouse and order management system. Built with flask.
